@@ -1,8 +1,8 @@
 from __future__ import print_function
 import random
 
-buzz = ('Cooper Shang','Cooper Shang','Cooper Shang','Cooper Shang','Cooper Shang','Cooper Shang')
-adjectives = ('A00983605','A00983605','A00983605','A00983605','A00983605','A00983605')
+buzz = ('coopershang','coopershang','coopershang','coopershang','coopershang','coopershang')
+adjectives = ('a00983605','a00983605','a00983605','a00983605','a00983605','a00983605')
 adverbs = ('remarkably', 'enormously', 'substantially', 'significantly',
     'seriously')
 verbs = ('accelerates', 'improves', 'enhances', 'revamps', 'boosts')
